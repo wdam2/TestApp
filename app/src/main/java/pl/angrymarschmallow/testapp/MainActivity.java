@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     private ArrayList<String> listaObecnosci = new ArrayList<String>(){{
         add("bodolsog");
         add("scorpion43");
+        add("meandors");
 
     }};
 
