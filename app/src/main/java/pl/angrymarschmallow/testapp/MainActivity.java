@@ -11,9 +11,6 @@ public class MainActivity extends AppCompatActivity {
         add("bodolsog");
         add("scorpion43");
         add("meandors");
-        add("CrackingMinds");
-        add("Warmish");
-        add("matrix56");
 
 
     }};
