@@ -20,7 +20,8 @@ public class MainActivity extends AppCompatActivity {
 
 
         //drugi komentarz
-        //trzeci komentarz
+        //trzeci komentarzasdsd
+        //asdsad
     }};
 
     @Override
