@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
         // 6 commit master
         // 7 commit master
         //dodanano 8 komentarz
+
+        //master change
     }};
 
     @Override
