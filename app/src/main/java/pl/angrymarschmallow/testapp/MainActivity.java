@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         //dodanano 8 komentarz
         // firstBranch changes
         //master change
+        //secondLocalBranch
     }};
 
     @Override
