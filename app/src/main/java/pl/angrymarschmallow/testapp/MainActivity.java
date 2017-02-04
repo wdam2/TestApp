@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         //trzeci komentarzasdsd
         //asdsad
         //asdasdaaaa
+        // 6 commit master
     }};
 
     @Override
